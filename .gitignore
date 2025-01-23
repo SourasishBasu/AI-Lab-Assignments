@@ -1,0 +1,5 @@
+*.docx
+.venv
+venv
+*.pdf
+.python-version
